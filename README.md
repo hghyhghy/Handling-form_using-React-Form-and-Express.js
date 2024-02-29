@@ -13,7 +13,7 @@ Currently, two official plugins are available:
 # To create react project run 
 
 
-         npm create react vite@latest
+         npm create vite@latest
 # To intall exprss run 
 
          npm install express@4
