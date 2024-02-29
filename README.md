@@ -18,3 +18,7 @@ Currently, two official plugins are available:
 # To intall exprss >run 
 
          npm install express@4
+
+# To intall react-hook-form >run 
+
+         npm install react-hook-form
