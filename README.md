@@ -10,10 +10,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-# To create react project run 
+# To create react project >run 
 
 
          npm create vite@latest
-# To intall exprss run 
+         
+# To intall exprss >run 
 
          npm install express@4
