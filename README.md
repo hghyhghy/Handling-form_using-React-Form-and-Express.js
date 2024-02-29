@@ -22,3 +22,7 @@ Currently, two official plugins are available:
 # To intall react-hook-form >run 
 
          npm install react-hook-form
+
+# To instal CORS >run 
+
+         npm install cors
